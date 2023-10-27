@@ -1,0 +1,21 @@
+{
+  "name": "cossim",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [
+    "math",
+    "cossim",
+    "余弦相似度",
+    "方差",
+    "标准差",
+    "协方差",
+    "协相关",
+    "点积"
+  ]
+}
