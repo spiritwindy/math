@@ -61,7 +61,7 @@ function standardDeviation(data, mean = arrSum(data) / data.length) {
  */
 function arrSum(arr) {
     let s = 0
-    for (let index = 0, len = arr.length; index < arr.length; index++) {
+    for (let index = 0, len = arr.length; index < len; index++) {
         s += arr[index]
     }
     return s
