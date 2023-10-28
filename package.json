@@ -1,6 +1,6 @@
 {
-  "name": "cossim",
-  "version": "1.0.1",
+  "name": "mathhelp",
+  "version": "1.0.2",
   "description": "math,cossim,余弦相似度,方差,标准差,协方差,协相关,点积",
   "main": "index.js",
   "scripts": {

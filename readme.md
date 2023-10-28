@@ -1,7 +1,7 @@
 #方法说明
 
 ```javascript
-const { similarity, dot, similarityByLen, arrSum, covariance, standardDeviation, correlationCoefficient } = require("cossim");
+const { similarity, dot, similarityByLen, arrSum, covariance, standardDeviation, correlationCoefficient } = require("mathhelp");
 // 相似度
 console.log(similarity([1, 2], [1, 2]))
 // 点乘
